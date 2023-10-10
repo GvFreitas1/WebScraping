@@ -6236,3 +6236,64 @@ JavaScript warning: https://www.google.com/js/th/wflAMEQY-wiVWjHdM0VRqWqZsjP0_jz
 
 ###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
 
+1696170292855	geckodriver	INFO	Listening on 127.0.0.1:63951
+1696170295901	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63959" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileDkpGmE"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696170296456	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696170297444	Marionette	INFO	Listening on port 64026
+WebDriver BiDi listening on ws://127.0.0.1:63961
+Read port: 64026
+1696170297976	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63960/devtools/browser/1e37e043-adf8-48f7-839a-4235e913b918
+1696170317669	Marionette	INFO	Stopped listening on port 64025
+JavaScript warning: https://mtc.sapium.com.br/mtc.js, line 18: Script terminated by timeout at:
+MauticJS.checkForTrackingPixel/checkPixel<@https://mtc.sapium.com.br/mtc.js:18:203
+
+Dynamically enable window occlusion 1
+.com/s/player/f7e1823a/player_ias.vflset/pt_BR/base.js, line 1894: Script terminated by timeout at:
+g.XB/<@https://www.youtube.com/s/player/f7e1823a/player_ias.vflset/pt_BR/base.js:1894:49
+
+Dynamically enable window occlusion 1
+JavaScript warning: https://www.google.com/js/th/t4fJDjrajMFffKEPgt5ujlKGQZX2brfqiHRjwjXPczQ.js line 2 > eval line 397 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+com.br/static/js/87.41383476.chunk.js:1:3814
+w@https://app.sapium.com.br/static/js/87.41383476.chunk.js:1:3869
+Ki@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:375368
+mu@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:421774
+cs@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:414309
+us@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:414232
+Zu@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:411241
+Go/<@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:362626
+t.unstable_runWithPriority@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:438207
+Ho@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:362335
+Go@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:362573
+$o@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:362506
+Ku@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:408023
+enqueueSetState@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:366334
+m.prototype.setState@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:312525
+h/l/p.safeSetState@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:9471
+h/l/p.loadAsync/this.promise<@https://app.sapium.com.br/static/js/29.4cf832c6.chunk.js:2:10186
+
+Dynamically enable window occlusion 1
+1696170315924	geckodriver	INFO	Listening on 127.0.0.1:64588
+1696170332778	geckodriver	INFO	Listening on 127.0.0.1:64594
+1696170335820	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64595" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileZBZkWx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696170336114	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696170336231	Marionette	INFO	Listening on port 65109
+WebDriver BiDi listening on ws://127.0.0.1:64595
+Read port: 65109
+1696170336698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64595/devtools/browser/8bbdda2e-b2ca-49d7-be2c-c2b0fbfeabaa
+1696170343112	Marionette	INFO	Stopped listening on port 65109
+JavaScript warning: https://mtc.sapium.com.br/mtc.js, line 24: Script terminated by timeout at:
+MauticJS.isPixelLoaded@https://mtc.sapium.com.br/mtc.js:24:14
+MauticJS.checkForTrackingPixel/checkPixel<@https://mtc.sapium.com.br/mtc.js:18:226
+
+Dynamically enable window occlusion 1
+cJS.checkForTrackingPixel/checkPixel<@https://mtc.sapium.com.br/mtc.js:18:226
+
+Dynamically enable window occlusion 1
