@@ -30661,3 +30661,131 @@ Read port: 57206
 DevTools listening on ws://127.0.0.1:57198/devtools/browser/4ab16b6f-b129-4386-8186-dc359d184ce1
 1696973275781	Marionette	INFO	Stopped listening on port 57206
 Dynamically enable window occlusion 1
+1698517588111	geckodriver	INFO	Listening on 127.0.0.1:60069
+1698517591143	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60075" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilegQeXb2"
+1698517591702	geckodriver	INFO	Listening on 127.0.0.1:60121
+1698517594754	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilevWVJFp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTDevTools listening on ws://127.0.0.1:60077/devtools/browser/9482ec6d-d257-4ac7-be90-b6d73ddabc3c
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript warning: https://mtc.sapium.com.br/mtc.js, line 18: Script terminated by timeout at:
+MauticJS.checkForTrackingPixel/checkPixel<@https://mtc.sapium.com.br/mtc.js:18:203
+
+JavaScript warning: https://www.youtube.com/s/player/9e328581/player_ias.vflset/pt_BR/base.js, line 10576: Script terminated by timeout at:
+hV.prototype.sample@https://www.youtube.com/s/player/9e328581/player_ias.vflset/pt_BR/base.js:10576:29
+g.k.iT@https://www.youtube.com/s/player/9e328581/player_ias.vflset/pt_BR/base.js:8175:44
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1698517622867	Marionette	INFO	Stopped listening on port 60144
+DynamicaA content process crashed and MJavaScript warning: https://www.google.com/js/th/JavaScript warning: https://www.google.com/js/th/QcAALD0fIyejrwdw44bQZTSl0S_tfxpIwjw1mnUR6iI.js line 2 > eval line 788 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1698517623777	Marionette	INFO	Stopped listening on port 60238
+Dynamically enable window occlusion 1
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.error: "Failed to fetch https://spocs.getpocket.com/user:" "NetworkError when attempting to fetch resource."
+JavaScript error: resource://gre/modules/UpdateService.sys.mjs, line 5406: TypeError: request.channel is null
+1698517627875	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: null, errorCode: 5, reason: error
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+tings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/sites-classification getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.sys.mjs", 16))
+JavaScript warning: https://www.google.com/js/th/QcAALD0fIyejrwdw44bQZTSl0S_tfxpIwjw1mnUR6iI.js line 2 > eval line 3832 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+
+###!!! [Parent][DispatchAsyncMessage] Error: PBackgroundIDBDatabase::Msg_PBackgroundIDBTransactionConstructor Value error: message was deserialized, but contained an illegal value
+
+1698517637658	geckodriver	INFO	Listening on 127.0.0.1:60691
+1698517640713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60699" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilebzc7bD"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698517641312	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698517641893	Marionette	INFO	Listening on port 60770
+WebDriver BiDi listening on ws://127.0.0.1:60694
+Read port: 60770
+1698517642437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/E10SUtils.sys.mjs, line 425: TypeError: Ci.nsIE10SUtils is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2881: TypeError: browser is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://browser/content/browser.js, line 7836: TypeError: browser is undefined
+JavaScript error: resource:///modules/ProcessHangMonitor.sys.mjs, line 323: TypeError: browser is undefined
+JavaScript error: resource:///modules/ProcessHangMonitor.sys.mjs, line 323: TypeError: browser is undefined
+d listening on port 60762
+Dynamically enable window occlusion 1
+1698517704237	CDP	WARN	Failed to rem1698517704262	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.sys.mjs, line 220: TypeError: browser is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+JavaScript error: resource:///modules/CustomizableUI.sys.mjs, line 5085: TypeError: aWindow.gNavToolbox.palette is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+peError: this.selectedBrowser is undefined
+1698517713025	geckodriver	INFO	Listening on 127.0.0.1:61007
+1698517716079	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofileJEXpdz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698517716351	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698517716474	Marionette	INFO	Listening on port 61038
+WebDriver BiDi listening on ws://127.0.0.1:61012
+Read port: 61038
+1698517716718	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/E10SUtils.sys.mjs, line 425: TypeError: Ci.nsIE10SUtils is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2881: TypeError: browser is undefined
+Shutting down due to socket process crash.
+JavaScript error: chrome://browser/content/browser.js, line 7836: TypeError: browser is undefined
+JavaScript error: resource:///modules/ProcessHangMonitor.sys.mjs, line 323: TypeError: browser is uJavaScript error: chrome://browser/content/browser.js, line 7836: TypeError: browser is undefined
+JavaScript error: resource:///modules/ProcessHangMonitor.sys.mjs, line 323: TypeError: browser is undefined
+JavaScript error: resource:///modules/ProcessHangMonitor.sys.mjs, line 323: TypeError: browser is undefined
+1698517795730	geckodriver	INFO	Listening on 127.0.0.1:61195
+1698517798772	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofile5EHIpt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698517799127	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698517799299	Marionette	INFO	Listening on port 61226
+WebDriver BiDi listening on ws://127.0.0.1:61196
+Read port: 61226
+1698517799557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/E10SUtils.sys.mjs, line 425: TypeError: Ci.nsIE10SUtils is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2881: TypeError: browser is undefined
+JavaScript error: chrome://browser/content/browser.js, line 7836: TypeError: browser is undefined
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.sys.mjs, line 220: TypeError: browser is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+JavaScript error: resource:///modules/CustomizableUI.sys.mjs, line 5085: TypeError: aWindow.gNavToolbox.palette is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+1698517859657	Marionette	INFO	Stopped listening on port 61226
+Dynamically enable window occlusion 1
+1698517859663	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+Exiting due to channel error.
+ypeError: browser is undefined
+JavaScript error: chrome://browser/content/browser.js, line 7836: TypeError: browser is undefined
+JavaScript error: chrome://browser/content/browser.js, line 7836: TypeError: browser is undefined
+JavaScript error: resource:///modules/sessionstore/TabStateFlusher.sys.mjs, line 220: TypeError: browser is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+JavaScript error: resource:///modules/UrlbarInput.sys.mjs, line 2138: TypeError: this.window.gBrowser.selectedBrowser is undefined
+JavaScript error: resource:///modules/CustomizableUI.sys.mjs, line 5085: TypeError: aWindow.gNavToolbox.palette is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+1698517858672	Marionette	INFO	Stopped listening on port 61222
+Dynamically enable window occlusion 1
+1698517858679	CDP	WARN	Failed to remove undefined (Could not parse path (undefined): NS_ERROR_FILE_UNRECOGNIZED_PATH)
+1698518062725	geckodriver	INFO	Listening on 127.0.0.1:61716
+1698518065771	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61717" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\User\\AppData\\Local\\Temp\\rust_mozprofilePctxmN"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698518066571	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1698518067012	Marionette	INFO	Listening on port 61817
+WebDriver BiDi listening on ws://127.0.0.1:61717
+Read port: 61817
+1698518067400	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/E10SUtils.sys.mjs, line 425: TypeError: Ci.nsIE10SUtils is undefined
+JavaScript error: chrome://browser/content/tabbrowser.js, line 5757: TypeError: this.selectedBrowser is undefined
+JavaScript error: resource:///modules/sessionstore/SessionStore.sys.mjs, line 2881: TypeError: browser is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: chrome://browser/content/browser.js, line 7836: TypeError: browser is undefined
+JavaScript error: resource:///modules/ProcessHangMonitor.sys.mjs, line 323: TypeError: browser is undefined
